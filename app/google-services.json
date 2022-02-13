@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738293794659",
+    "project_id": "instag-40929",
+    "storage_bucket": "instag-40929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738293794659:android:07ea30e481bc95a43f7556",
+        "android_client_info": {
+          "package_name": "com.codingstuff.instag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738293794659-r91v3ag2g0hrk9ohkbipfk2ghe5nqm03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WnJthP61cGGAj8jvbBt9iUCBwEKE1to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738293794659-r91v3ag2g0hrk9ohkbipfk2ghe5nqm03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
